@@ -1,0 +1,52 @@
+.input{
+    width: 50px;
+}
+.label {
+    padding-right: 6px;
+}
+.qauntDiv {
+    display: flex;
+    padding-left: 400px; 
+    padding-right: 15px;
+}
+.verbalDiv {
+    display: flex;
+    padding-left: 100px;
+}
+.titleQuant {
+    display: flex;
+    padding-left: '200px'; 
+    margin-bottom: 3px;
+}
+.titleVerbal {
+    display: flex;
+    padding-left: 100px;
+    margin-bottom: 3px;
+}
+.mainInput {
+    padding-top: 10px;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 110px;
+}
+.buttonDiv {
+    display: flex;
+    padding-left: 230px;
+    padding-top: 30px
+}
+.button {
+    border-radius: 10px;
+    background-color: blue;
+border: none;
+color: white;
+padding: 10px 23px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 12px;
+margin: 4px 2px;
+cursor: pointer;
+}
